@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = ""
+title = "Strong Gym"
+baseURL = "https://web.hugity.com/j5784xf5hvv2q59qfgsfkfyq5x7qrv8b/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
@@ -12,14 +12,10 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-title = "Ananke"
+title = "Strong Gym"
 weight = 1
 contentDir = "content/en"
 # languageDirection = 'rtl' for Right-To-Left languages
-[languages.fr]
-title = "Ananke Fr"
-weight = 2
-contentDir = "content/fr"
 
 [sitemap]
 changefreq = "monthly"

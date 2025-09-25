@@ -10,3 +10,7 @@ cascade:
 Weekdays: 9am - 10pm
 
 Weekends: 10am - 8pm
+
+> [!NOTE]
+
+> This is a note callout
